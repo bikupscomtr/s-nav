@@ -1,5 +1,4 @@
-# s-nav
-İngilizce Soru Sınav Scripti Ücretsiz
+# İngilizce Soru Sınav Scripti Ücretsiz
 
 herkese merhabalar bugün kendi yazdığım basit bir php scriptini sizlerle paylaşıyorum 
 
